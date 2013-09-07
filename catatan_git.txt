@@ -1,0 +1,9 @@
+1. Git add	= Untuk menambahkan data ke dalam Repositeri
+
+2. Git commit -m "nama commit" = Untuk mengcommit data tersebut ke dalam Repositeri
+
+3. Git push = Untuk mengupload data yang ingin ditambahkan
+
+4. Git diff = Untuk merubah data di dalam file yang terdapat di Repositeri
+
+5. Git reset --hard    code = Untuk merubah jenis commit yang terdapat di Reposite
